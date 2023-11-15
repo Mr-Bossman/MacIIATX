@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MacPSU_conn")(type "KiCad")(uri "${KIPRJMOD}/MacPSU_conn.pretty")(options "")(descr ""))
+)
